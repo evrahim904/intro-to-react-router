@@ -1,0 +1,9 @@
+.friend{
+    border: 3px solid goldenrod;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.friend button{
+    background-color: bisque;
+}
